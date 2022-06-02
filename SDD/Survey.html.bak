@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Endangered Species</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/notice.js">
+	</script> 	 
+	</head>
+	 
+	<body>
+<!--==============================header=================================-->
+	<header> 
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+	<a href="index.html"><img src="images/logo.webp" alt="logo" style="height:100px; width:100px;"></a>
+		
+		<div class="menu_block">
+		
+			<nav>
+				<ul class="sf-menu">
+					<li><a href="Index.html">Home</a></li>
+					<li><a href="Aboutus.html">About us</a></li>
+					<li><a href="EndangeredSpecies.html">Endangered Species</a></li>
+					<li><a href="Howtohelp.html">How to help</a></li>
+					<li><a href="Reachformore.html">Reach for more</a></li>
+					<li class="current"><a href="Survey.html">Survey</a></li>
+				</ul>
+			</nav>
+			<div class="clear"></div>
+			
+		</div>
+    
+	</div>
+	</header>
+<!--==============================Content=================================-->
+ 
+	<div style="margin-left:auto; margin-right:auto; width:940px;">
+		<div class="box">
+			<center>   
+			<h3>Please do a survey for us!</h3>
+			<img src="images/E64-fOuX0AIYTQv" alt="" class="img_inner">
+				<div class="text1"><a href="https://forms.gle/MaFmF2ghZGxJc3fR6" rel="dofollow">Click here to do a survey for us!</a></div>
+				
+			</center>
+			
+		</div>
+	</div>
+
+<!--==============================footer=================================-->
+	<footer>    
+		<div style="margin-left:auto; margin-right:auto; width:940px ">
+			<div class="footer">
+			Endangered Species &copy; 2022 | <a href="#">Privacy Policy</a>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

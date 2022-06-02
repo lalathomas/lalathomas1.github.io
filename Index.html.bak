@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Endangered Species</title>
+	<link rel="stylesheet" href="css/style.css">
+	</head>
+	
+	<body
+<!--==============================header=================================-->
+	<header> 
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+		<a href="index.html"><img src="images/logo.webp" alt="logo" style="height:100px; width:100px;"></a>
+			<div class="menu_block">
+
+				<nav style="">
+					<ul class="sf-menu"> <!--list of menu  that contains different tag-->
+						<li class="current"><a href="Index.html">Home</a></li>
+						<li><a href="Aboutus.html">About us</a></li>
+						<li><a href="Howtohelp.html">How to help</a></li>
+						<li><a href="Reachformore.html">Reach for more</a></li>
+						<li><a href="EndangeredSpecies.html">Endangered Species</a></li>
+						<li><a href="Contacts.html">Contacts</a></li>
+					</ul>
+				</nav>
+				<div class="clear"></div> <!--clear for spacing-->
+				   
+			</div>
+    
+    </div>
+	</header>
+<!--==============================Content=================================-->
+	<div style="margin-left:auto; margin-right:auto; width:940px;">
+		
+		<div class="box"> <!--box for backgorund colour-->
+		<center>
+		<h3>Home Page</h3>
+				<img src="images/home2.gif" alt="" class="img_inner">	<!--homepage gif and img_inner for sizing-->
+				<!--description of the paragraph-->
+				<div class="text1"><p> Welcome to Endangered animal ambassadors!</p> </div> <!--text1 style for headline-->
+				<p>Welcome to endangered animal ambassadors' website! In here, our goal is raise the awareness of people about protecting and saving endangered animal species,
+				we want to promote our goal by sharing varieties of information on different kinds of endangered species and how to improve the situation.
+		</center>	
+		</div>
+		
+	</div>
+<!--==============================footer=================================-->
+	<footer>    
+		<div style="margin-left:auto; margin-right:auto; width:940px "> <!--format of footer-->
+			<div class="footer"> <!--fixed size of footer-->
+			Endangered Species &copy; 2022 | <a href="#">Privacy Policy</a>
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>
+
+		

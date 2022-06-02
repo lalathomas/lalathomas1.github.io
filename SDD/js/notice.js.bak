@@ -1,0 +1,3 @@
+function Clear( ) {
+	alert("Data has been successfully deleted!");
+}

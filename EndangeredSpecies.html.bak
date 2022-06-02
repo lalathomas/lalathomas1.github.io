@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Endangered Species</title>
+	<link rel="stylesheet" href="css/style.css">
+	</head>
+	 
+	<body>
+<!--==============================header=================================-->
+	<header> 
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+	<a href="index.html"><img src="images/logo.webp" alt="logo" style="height:100px; width:100px;"></a>
+		
+		<div class="menu_block">
+			<nav>
+				<ul class="sf-menu">
+					<li><a href="Index.html">Home</a></li>
+					<li><a href="Aboutus.html">About us</a></li>
+					<li><a href="Howtohelp.html">How to help</a></li>
+					<li class="current"><a href="EndangeredSpecies.html">Endangered Species</a></li>
+					<li><a href="Reachformore.html">Reach for more</a></li>
+					<li><a href="Contacts.html">Contacts</a></li>
+				</ul>
+			</nav>
+			<div class="clear"></div>
+		</div>
+           
+	</div>
+	</header>
+
+<!--==============================Content=================================-->
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+	
+		<div class="box">
+        <h3>Endangered Land Species</h3>
+			<div class="block2">  <!--block2 style for the background-->
+				<img src="images/panda2.jpg"style="height:200px; weidth:200px;" alt="" class="img_inner">
+				<div class="text1" style="color:black;><a href="#">Giant Panda</a></div>Everyone loves a panda…they might be the kitschiest animal humanity has driven to the brink of extinction yet. From stuffed animals to martial arts-trained CGI abominations, we just can’t seem to get enough of the bi-colored beasts. Though their “aww factor” may verge on the cloying, it hasn’t been without effect. China, which is home to the remaining wild population of fewer than 2,500 individuals, has since the late 1980s instituted more stringent habitat protections and poaching has all but ceased. Their status is still tenuous, though. Their range is fragmented and they are still subject to disease, occasional predation, and starvation when large swathes of the bamboo on which they feed completes its life cycle and dies.
+			</div>
+			<div class="block2"> <!--block2 style for the background-->
+				<img src="images/tiger.webp" alt="" class="img_inner">
+				<div class="text1" style="color:black;><a href="#">Tiger</a></div>William Blake’s “forests of the night,” the stalking grounds of the six subspecies of tiger, are burning bright. Slash-and-burn agriculture, along with logging, and human encroachment, have hugely diminished the habitat available to these felines, which require extensive ranges capable of supporting the large herbivores that constitute the bulk of their diets. Poaching—for trophies and body parts used in Asian “medicine” —is thought to pose the greatest threat to tigers. Probably fewer than 4,000 are left in the wild. In 2014, China explicitly outlawed the consumption of endangered species, including tigers, whose bones, penises, and other organs are superstitiously believed to have magical curative powers.
+			</div>
+			<div class="block2"> <!--block2 style for the background-->
+				<img src="images/elephant.webp" alt="" class="img_inner">
+				<div class="text1" style="color:black;><a href="#">Asian elephant</a></div>The IUCN’s best guess on the current population of Asian elephants, which inhabit 13 countries, is around 40,000–50,000. That number may be far lower; some regions inhabited by the lumbering pachyderms are inaccessible due to the terrain or to political volatility. Over 50% of the population is concentrated in India. The burgeoning human population there—and elsewhere in Asia—creates conflicts for space and resources. And while the tusks of Asian elephants are much smaller than those of their African counterparts, the Asian species is still poached for its ivory, meat, and skin.
+			</div>
+			<div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+	  
+		<div class="box">
+		<h3>Endangered Marine Species</h3>
+			<div class="block2"> <!--block2 style for the background-->
+				<img src="images/blue whale.webp" alt="" class="img_inner">
+				<div class="text1" style="color:black;">Blue Whale</a></div>There are fewer than 25,000 blue whales, the largest animals on the planet. Comprising several subspecies, blue whales are found in all of the world’s oceans save the Arctic. The current population is thought to have been reduced by up to 90% by whaling in the 20th century. Commercial hunting of the species was ultimately banned in 1966. The National Marine Fisheries Service of the U.S. spelled out a recovery plan in 1998. It stipulated the maintenance of photo databases of individual specimens and the collection of genetic and migration data in order to better understand the species, which remains at risk from ship collisions and entanglement in fishing nets.
+			</div>
+			<div class="block2"> <!--block2 style for the background-->
+				<img src="images/shark.jpg" style="height:200px; weidth:200px;" alt="" class="img_inner">
+				<div class="text1" style="color:black;><a href="#">Great white shark</a></div>Great white shark faces numerous ecological challenges which has resulted in international protection. The International Union for Conservation of Nature lists the great white shark as a vulnerable species,and it is included in Appendix II of CITES.It is also protected by several national governments, such as Australia (as of 2018). Due to their need to travel long distances for seasonal migration and extremely demanding diet, it is not logistically feasible to keep great white sharks in captivity; because of this, while attempts have been made to do so in the past, there are no known aquariums in the world believed to house a live specimen.
+			</div>
+			<div class="block2"> <!--block2 style for the background-->
+				<img src="images/turtle.jpg" style="height:200px; weidth:200px;" alt="" class="img_inner">
+				<div class="text1" style="color:black;><a href="#">Green sea turtle</a></div>The green turtle, named for its green, fatty underside and cartilage, are significantly larger than the Hawksbill and can be recognized by a single pair of prefrontal scales .Green turtles average 3-4 feet in carapace length, and weigh between 240 and 420 pounds once fully grown.The diet of green turtles ranges throughout their lifetime, from small crustaceans and aquatic insects at a young age, to mainly sea grasses and algae as an adult. The turtles inhabit coastlines around islands and protected shores in both tropical and temperate climates.Human activities have tipped the scales against the survival of these ancient mariners. Nearly all species of sea turtle are classified as Endangered. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture in fishing gear. Climate change has an impact on turtle nesting sites. It alters sand temperatures, which then affects the sex of hatchlings.Hawksbills are particularly susceptible to entanglement in gillnets and accidental capture on fishing hooks. Sea turtles need to reach the surface to breathe, and therefore many drown once caught. Known as bycatch, this is a serious threat to hawksbill turtles. As fishing activity expands, this threat is more of a problem.
+			</div>
+			<div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+    
+	</div>
+
+<!--==============================footer=================================-->
+	<footer>    
+		<div style="margin-left:auto; margin-right:auto; width:940px ">
+			<div class="footer">
+			Endangered Species &copy; 2022 | <a href="#">Privacy Policy</a>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

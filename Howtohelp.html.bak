@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Endangered Species</title>
+	<link rel="stylesheet" href="css/style.css">
+	</head>
+	 
+	<body>
+<!--==============================header=================================-->
+	<header> 
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+	<a href="index.html"><img src="images/logo.webp" alt="logo" style="height:100px; width:100px;"></a>
+		<div class="menu_block">
+
+			<nav>
+				<ul class="sf-menu">
+					<li><a href="Index.html">Home</a></li>
+					<li><a href="Aboutus.html">About us</a></li>
+					<li class="current"><a href="Howtohelp.html">How to help</a></li>
+					<li><a href="Reachformore.html">Reach for more</a></li>
+					<li><a href="EndangeredSpecies.html">Endangered Species</a></li>
+					<li><a href="Contacts.html">Contacts</a></li>
+				</ul>
+			</nav>
+			<div class="clear"></div>
+			
+		</div>
+
+	</div>
+	</header>
+<!--==============================Content=================================-->
+	
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+		<div class="box">
+			<h3 class="head1">How to help</h3> <!--sytle head1 for the headline-->
+			<img src="images/reduce.png" style="height:160px; weidth:150px;">
+				<div>
+				<div class="text1">Reduce And Reuse</a></div> <!--sytle text1 for the headline-->
+				<p>Reuse items in your household when you can, and buy products that produce less packaging waste. By purchasing second-hand furniture, clothes, electronics, and toys, you help reduce the energy consumption required to make new ones and produce less waste as well. Choose reusable bottles for beverages whenever you can. Use a reusable bag for your groceries, and carry your own container to the restaurant for the leftovers.</p>
+				</div>
+				<div class="clear"></div>
+		</div>
+	  
+		<div class="box pt1">
+			<img src="images/soil.jpg" style="height:120px; weidth:120px;">
+			<div class="text1">Prevent Soil Erosion</a></div>
+			<p>Take all necessary measures to prevent soil erosion and protect water resources close by used by wild animals. When you clear out vegetation, you must take all necessary precautions that any loose sediment is kept away from natural waterways, as it would consume all oxygen from the water and disrupt the habitat of the stream bed.</p>
+			<div class="clear"></div>
+		</div>
+	  
+		<div class="box pt1">
+			<img src="images/vegen.jpg" style="height:100px; weidth:100px;">
+			<div class="extra_wrapper">
+			<div class="text1">Reduce Or Remove Meat, Dairy And Eggs From Your Diet</a></div>
+			<p>The one action with the most pronounced impact on the preservation of the environment is to become a vegan. Animal farming is the number one cause of water consumption, pollution, and deforestation. Livestock has a higher greenhouse effect on the atmosphere than fossil fuel consumption. The farming industry is the principle cause of rainforest demise, soil erosion, habitat loss, species extinction and dead zones in the oceans. Enormous amounts of food, water, energy, and land are required to raise animals for food, on top of the immense animal suffering it causes. By opting to consume exclusively plant-based food, you aid in the rescue of our planet, while easing animal suffering at the same time.</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	  
+    </div>
+	
+<!--==============================footer=================================-->
+	<footer>    
+		<div style="margin-left:auto; margin-right:auto; width:940px ">
+			<div class="footer">
+			Endangered Species &copy; 2022 | <a href="#">Privacy Policy</a>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

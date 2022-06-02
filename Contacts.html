@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Endangered Species</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/notice.js">
+	</script> 	 
+	</head>
+	 
+	<body>
+<!--==============================header=================================-->
+	<header> 
+	<div style="margin-left:auto; margin-right:auto; width:940px ">
+	<a href="index.html"><img src="images/logo.webp" alt="logo" style="height:100px; width:100px;"></a>
+		
+		<div class="menu_block">
+		
+			<nav>
+				<ul class="sf-menu">
+					<li><a href="Index.html">Home</a></li>
+					<li><a href="Aboutus.html">About us</a></li>
+					<li><a href="EndangeredSpecies.html">Endangered Species</a></li>
+					<li><a href="Howtohelp.html">How to help</a></li>
+					<li><a href="Reachformore.html">Reach for more</a></li>
+					<li class="current"><a href="Contacts.html">Contacts</a></li>
+				</ul>
+			</nav>
+			<div class="clear"></div>
+			
+		</div>
+    
+	</div>
+	</header>
+<!--==============================Content=================================-->
+ 
+	<div style="margin-left:auto; margin-right:auto; width:940px;">
+		<div class="box">
+			<center>   
+			<h3>Contact Us</h3>
+				
+				<form onsubmit="window.alert('Submitted successfully!');">
+					Name: <input type="name" required /> <!--input name with requirment-->
+					<br /><br />
+
+					Email:<input type="email" />
+					<br /><br />
+
+					Phone number: <input type="text" pattern="^(852-)[0-9]{8}$"  
+					title= "Matches a tel-no with 852-'followed by 8 digits" />
+					<br /><br /><!--input phone number with requirment-->
+
+					<input type="submit" value="Submit" /> <!--submit button to submit the form-->
+					<input type="reset" value="Clear" onclick="Clear()"/> <!--clear button to clear the form-->
+				</form>
+			</center>
+			
+		</div>
+	</div>
+
+<!--==============================footer=================================-->
+	<footer>    
+		<div style="margin-left:auto; margin-right:auto; width:940px ">
+			<div class="footer">
+			Endangered Species &copy; 2022 | <a href="#">Privacy Policy</a>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
